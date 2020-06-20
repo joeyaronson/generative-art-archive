@@ -2,7 +2,7 @@
 an archive of generative art created in p5.js
 
 
-<img src="ascii_wave/thumbnail.PNG" alt="ascii_wave" style="width:150px"/>
+<img src="ascii_wave/thumbnail.PNG" alt="ascii_wave" style="width:150"/>
 <img src="balls_n_boxes/thumbnail.PNG" alt="balls_n_boxes" style="width:150px"/>
 <img src="bloom/thumbnail.PNG" alt="bloom" style="width:150px"/>
 <img src="circle_illusion/thumbnail.PNG" alt="circle_illusion" style="width:150px"/>
