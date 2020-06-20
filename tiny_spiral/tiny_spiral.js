@@ -1,0 +1,19 @@
+setup=_=>{
+	d=1e3
+	createCanvas(d,d)
+	colorMode(HSB,1)
+	h=a=0
+}
+draw=_=>{
+	translate(d/2,d/2)
+	o(d)
+	a+=2e-3
+	h+=5e-3
+}
+o=s=>{
+	rotate(a)
+	strokeWeight(s/50)
+	fill((h+s/1e3)%1,1,1)
+	ellipse(0,0,s,s/cos(a))
+	if(s>9)o(s*.9)
+}

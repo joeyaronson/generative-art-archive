@@ -1,4 +1,4 @@
 # spiral pulse
 created for a sub 200 character challenge
-
-![spiral pulse](./thumbnail.png)
+live view [here](https://www.openprocessing.org/sketch/681455)
+![spiral pulse](thumbnail.png)
