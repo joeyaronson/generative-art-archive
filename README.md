@@ -8,6 +8,7 @@ live versions can be viewed [here](https://www.openprocessing.org/user/134483)
 <img src="circle_illusion/thumbnail.PNG" alt="circle_illusion" style="width:150"/>
 <img src="colored_boxes/thumbnail.PNG" alt="colored_boxes" style="width:150"/>
 <img src="cubic/thumbnail.PNG" alt="cubic" style="width:150"/>
+<img src="dna/thumbnail.PNG" alt="dna" style="width:150;"/>
 <img src="exclusion_blob_1/thumbnail.PNG" alt="exclusion_blob_1" style="width:150"/>
 <img src="exclusion_blob_2/thumbnail.PNG" alt="exclusion_blob_2" style="width:150"/>
 <img src="exclusion_blob_3/thumbnail.PNG" alt="exclusion_blob_3" style="width:150"/>
